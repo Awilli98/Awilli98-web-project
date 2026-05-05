@@ -1,0 +1,56 @@
+body {
+    background-color: #E6E6FA;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: black;
+    line-height: 1.6;
+}
+
+nav {
+    background-color: #d8c8ff;
+    padding: 12px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: #4b2e83;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+nav a:hover {
+    color: hotpink;
+}
+
+h1 {
+    color: #4b2e83;
+    font-size: 36px;
+}
+
+h2 {
+    color: #6a4fbf;
+    font-size: 26px;
+}
+
+p {
+    font-size: 16px;
+}
+
+ul, ol {
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
